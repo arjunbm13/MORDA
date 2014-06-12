@@ -1,0 +1,30 @@
+#Chapter 3
+
+**Alternative Tools :**
+Keynote Device anywhere, Perfecto Mobile, Appthwak, P-cloudy, Testdroid, Appurify, 
+Sauce labs, Verifaya, Keynote Mite, Remote test kit- Appkitbox
+
+1)	*Keynote Device anywhere*
+http://www.keynotedeviceanywhere.com/
+2)	*Perfecto Mobile*
+http://www.perfectomobile.com/content/platform
+3)	*Appthwak*
+https://appthwack.com/pricing
+4)	*Utest*
+https://www.utest.com/mobile-app-testing
+5)	*P-Cloudy*
+https://www.pcloudy.com/
+6)	*Testdroid*
+http://bitbar.com/
+7)	*Appurify*
+http://appurify.com/
+8)	*Sauce labs*
+https://saucelabs.com/mobile
+9)	*Verifaya*
+http://verifaya.com/feature/mobile-testing/
+10)	*Keynote Mite*
+http://mite.keynote.com/
+11)	*Remote test kit- Appkitbox*
+http://appkitbox.com/en/testkit
+12)	*10XLabs*
+http://www.tenxlabs.com/mobility-test-lab-0
