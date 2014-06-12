@@ -1,0 +1,15 @@
+#Chapter 2
+                                                      **Research**
+These tools/companies enables you to immediately access the required device through your computer (Remote Device access), 
+supports Android and IOS, Windows smartphones and tablets.
+
+**Real device access for free:**
+*Samsung developer labs*
+  http://developer.samsung.com/remotetestlab/rtlDeviceList.action
+*Nokia Developer labs*
+  http://developer.nokia.com/resources/remote-device-access
+*Vodafone Handset cloud service*
+  https://developer.vodafone.com/develop-apps/test/
+
+*List of Simulators and Emulators for Mobile testing*
+  http://stackoverflow.com/questions/464089/simulators-emulators-for-mobile-browser-testing
